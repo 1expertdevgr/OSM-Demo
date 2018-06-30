@@ -1,0 +1,4 @@
+
+<can-import from="components/search/">
+    <search-page ></search-page>
+</can-import>
